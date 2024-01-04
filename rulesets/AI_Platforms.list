@@ -8,6 +8,8 @@ DOMAIN-SUFFIX,challenges.cloudflare.com
 DOMAIN-SUFFIX,identrust.com
 DOMAIN-SUFFIX,stripe.com
 DOMAIN-KEYWORD,openai
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,oaiusercontent.com
 
 # https://claude.ai/
 # created by limbopro
